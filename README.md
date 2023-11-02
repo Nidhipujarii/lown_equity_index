@@ -15,7 +15,8 @@ Our project is dedicated to exploring and analyzing ***hospital performance***, 
 # Live Interactive Dashboard Link
 https://app.powerbi.com/links/sIJUb2cSni?ctid=fd23d73e-7c5c-4e14-a680-5c91d187b680&pbi_source=linkShare
 
-# Video Presentation Of The Project
+# Dashboard explanation Of The Project
+https://www.linkedin.com/posts/nidhi-pujari-b74843216_dataanalysis-healthcareanalytics-activity-7125791039985975296-rdA8?utm_source=share&utm_medium=member_desktop
 
 
 # Project
