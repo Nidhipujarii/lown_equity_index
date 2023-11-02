@@ -13,8 +13,7 @@ Our project is dedicated to exploring and analyzing ***hospital performance***, 
 ![Screenshot (64)](https://github.com/Nidhipujarii/lown_equity_index/assets/107934279/f26bb163-8d81-4673-895f-137522d36516)
 
 # Live Interactive Dashboard Link
-https://app.powerbi.com/links/sIJUb2cSni?ctid=fd23d73e-7c5c-4e14-a680-5c91d187b680&pbi_source=linkShare
-
+https://app.powerbi.com/links/sIJUb2cSni?ctid=fd23d73e-7c5c-4e14-a680-5c91d187b680&pbi_source=linkShare&bookmarkGuid=646ebd03-40b8-4b36-91df-fb595a9bbba3
 # Dashboard explanation Of The Project
 https://www.linkedin.com/posts/nidhi-pujari-b74843216_dataanalysis-healthcareanalytics-activity-7125791039985975296-rdA8?utm_source=share&utm_medium=member_desktop
 
